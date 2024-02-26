@@ -1,0 +1,9 @@
+{
+    "name": "zed-hcl-extention",
+    "version": "0.0.1",
+    "authors": [
+      "youssef@doubl.tech"
+    ],
+    "description": "An extension for Zed code editor to highlight HCL syntax to be used for Terraform files.",
+    "repository": "https://github.com/devqik/zed-hcl-extention"
+  }
